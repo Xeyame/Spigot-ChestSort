@@ -134,6 +134,7 @@ public class JeffChestSortPlugin extends JavaPlugin {
 		getConfig().addDefault("check-for-updates", "true");
 		getConfig().addDefault("auto-generate-category-files", true);
 		getConfig().addDefault("sort-time", "close");
+		getConfig().addDefault("create-dump-file", false);
 		getConfig().addDefault("verbose", true); // Prints some information in onEnable()
 	}
 
