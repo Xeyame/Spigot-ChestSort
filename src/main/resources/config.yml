@@ -235,13 +235,13 @@ message-error-invalid-options: "&cError: Unknown option %s. Valid options are %s
 
 ##### Russian - Thanks to Gandon for translating! -> https://www.spigotmc.org/members/gandon.443887/
 ##### Note: the last two messages are still untranslated. Please send me your translation at SpigotMC
-message-when-using-chest: "&7Подсказка: введите &6/chestsort&7, чтобы включить автоматическую сортировку вещей в сундуках."
-message-when-using-chest2: "&7Подсказка: введите &6/chestsort&7, чтобы отключить автоматическую сортировку вещей в сундуках."
-message-sorting-disabled: "&7Автоматическая сортировка вещей в сундуках была &cотключена&7."
-message-sorting-enabled: "&7Автоматическая сортировка вещей в сундуках была &aвключена&7."
-message-error-players-only: "&cОшибка: эта команда может быть использована только игроками."
-message-player-inventory-sorted: "&7Your inventory has been sorted."
-message-error-invalid-options: "&cError: Unknown option %s. Valid options are %s."
+#message-when-using-chest: "&7Подсказка: введите &6/chestsort&7, чтобы включить автоматическую сортировку вещей в сундуках."
+#message-when-using-chest2: "&7Подсказка: введите &6/chestsort&7, чтобы отключить автоматическую сортировку вещей в сундуках."
+#message-sorting-disabled: "&7Автоматическая сортировка вещей в сундуках была &cотключена&7."
+#message-sorting-enabled: "&7Автоматическая сортировка вещей в сундуках была &aвключена&7."
+#message-error-players-only: "&cОшибка: эта команда может быть использована только игроками."
+#message-player-inventory-sorted: "&7Your inventory has been sorted."
+#message-error-invalid-options: "&cError: Unknown option %s. Valid options are %s."
 
 ##### Spanish - Thanks to Bers_ for translating! ->  https://www.spigotmc.org/members/bers_.146126/
 #message-when-using-chest: "&7Pista: Usa &6/chestsort&7 para activar el orden automático de los cofres."
